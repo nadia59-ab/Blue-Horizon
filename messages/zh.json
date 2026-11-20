@@ -1,0 +1,404 @@
+{
+  "navigation": {
+    "home": "首页",
+    "location": "位置",
+    "accommodation": "住宿",
+    "facilities": "设施",
+    "gallery": "照片集",
+    "reviews": "宾客评价",
+    "contact": "联系我们",
+    "mainLabel": "主导航",
+    "language": "选择语言",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单",
+    "languageNames": {
+      "en": "??",
+      "zh": "??",
+      "ru": "??",
+      "de": "??"
+    }
+  },
+  "booking": {
+    "bookNow": "立即预订"
+  },
+  "hero": {
+    "galleryLabel": "红海景色",
+    "eyebrow": "与大海更近一些",
+    "tagline": "让红海为时光按下慢放键。",
+    "place": "埃及，赫尔格达",
+    "slideControls": "选择首页图片",
+    "goToSlide": "显示第 {number} 张图片",
+    "scroll": "继续探索",
+    "previousSlide": "?????",
+    "nextSlide": "?????"
+  },
+  "why": {
+    "eyebrow": "贴心的每个细节",
+    "title": "选择我们的理由",
+    "intro": "为您在红海边的阳光假期准备好所需的一切。",
+    "items": {
+      "parking": {
+        "title": "免费停车",
+        "description": "让您的出行与抵达更加轻松。"
+      },
+      "restaurant": {
+        "title": "餐厅",
+        "description": "从清晨到夜晚，享受轻松的新鲜美食。"
+      },
+      "roomService": {
+        "title": "客房服务",
+        "description": "悠闲的早晨，美味送到房门口。"
+      },
+      "bar": {
+        "title": "酒吧",
+        "description": "清凉饮品相伴，享受水边闲适夜晚。"
+      },
+      "frontDesk": {
+        "title": "24小时前台",
+        "description": "无论何时，都有亲切的笑容为您服务。"
+      },
+      "familyRooms": {
+        "title": "家庭客房",
+        "description": "宽敞舒适，一起享受假期时光。"
+      }
+    }
+  },
+  "roomsSection": {
+    "title": "埃及赫尔格达的住宿",
+    "subtitle": "舒适现代客房",
+    "chooseType": "选择您的房型"
+  },
+  "rooms": {
+    "doubleMountainView": {
+      "name": "山景双人房",
+      "description": "舒适的双人客房，可安静欣赏东部沙漠山脉景色。"
+    },
+    "doubleSeaView": {
+      "name": "海景双人房",
+      "description": "明亮的双人客房设有私人阳台，可俯瞰红海。"
+    },
+    "singleSeaView": {
+      "name": "海景单人房",
+      "description": "惬意的单人客房设有阳台，可开阔欣赏红海景色。"
+    },
+    "suiteSeaView": {
+      "name": "海景套房",
+      "description": "宽敞的套房设有独立起居区，可尽览红海美景。"
+    }
+  },
+  "roomDetails": {
+    "size": "{size} 平方米",
+    "guests": "最多 {count} 位宾客",
+    "imageAlt": "{roomName}客房，第{number}张照片",
+    "beds": {
+      "double": "1 张双人床",
+      "single": "1 张单人床",
+      "suite": "1 张特大床和 1 张沙发床"
+    }
+  },
+  "common": {
+    "viewMore": "查看详情",
+    "viewLess": "收起",
+    "previousReview": "上一组评价",
+    "nextReview": "下一组评价"
+  },
+  "reviews": {
+    "homeHeading": "宾客印象",
+    "eyebrow": "宾客的入住分享",
+    "title": "值得珍藏的旅程",
+    "starRating": "满分 5 星，获得 {rating} 星",
+    "items": {
+      "mariam": {
+        "title": "美好的红海假期",
+        "text": "海景非常美，团队从我们抵达的那一刻起就让整个入住过程轻松自在。"
+      },
+      "oliver": {
+        "title": "热情周到的服务",
+        "text": "酒店宁静而温馨，海滩很棒，客房也十分舒适。"
+      },
+      "salma": {
+        "title": "绝佳的位置",
+        "text": "我们喜欢靠近海边，也喜欢在阳台上欣赏日落。"
+      },
+      "daniel": {
+        "title": "放松的一周",
+        "text": "客房一尘不染，员工友善，海滩更是旅程中的亮点。"
+      },
+      "layla": {
+        "title": "短途休假的理想之选",
+        "text": "一切都轻松而周到，我们很愿意再次回来。"
+      },
+      "sofia": {
+        "title": "迷人的海景",
+        "text": "入住舒适，景色怡人，整个旅程都感受到友善的服务。"
+      }
+    }
+  },
+  "cta": {
+    "homeHeading": "预订住宿",
+    "eyebrow": "红海假期正等着您",
+    "title": "预订您的旅程",
+    "text": "留一些时间给阳光、海风，以及无所事事的惬意。"
+  },
+  "activities": {
+    "thingsToDo": "赫尔格达游玩指南",
+    "sectionTitle": "赫尔格达活动",
+    "location": "红海，赫尔格达",
+    "freeCancellation": "可免费取消",
+    "from": "起价",
+    "bookNow": "立即预订",
+    "sampleNote": "演示项目样例",
+    "items": {
+      "divingTrip": {
+        "title": "红海潜水之旅"
+      },
+      "snorkelingBoatTrip": {
+        "title": "乘船浮潜之旅"
+      },
+      "desertSafari": {
+        "title": "沙漠探险"
+      },
+      "islandDayTrip": {
+        "title": "海岛一日游"
+      },
+      "sunsetCruise": {
+        "title": "日落游船"
+      },
+      "dolphinWatching": {
+        "title": "观赏海豚"
+      },
+      "quadBiking": {
+        "title": "沙漠四轮摩托"
+      },
+      "glassBottomBoat": {
+        "title": "玻璃底观光船"
+      },
+      "kitesurfLesson": {
+        "title": "风筝冲浪课程"
+      },
+      "cityTour": {
+        "title": "赫尔格达城市游"
+      },
+      "luxorDayTrip": {
+        "title": "卢克索一日游"
+      },
+      "cairoDayTrip": {
+        "title": "开罗一日游"
+      }
+    },
+    "highlights": {
+      "divingTrip": "跟随当地潜水向导探索珊瑚礁，也适合初学者体验。",
+      "snorkelingBoatTrip": "乘船出海，在向导陪同下畅游珊瑚花园。",
+      "desertSafari": "驰骋沙漠小径，并探访传统贝都因营地。",
+      "islandDayTrip": "乘船前往附近海岛，享受轻松的海滩时光。",
+      "sunsetCruise": "日落时分沿红海海岸悠然巡航。",
+      "dolphinWatching": "参加友善观豚船游，寻找海豚踪迹。",
+      "quadBiking": "在向导陪同下驾驶四轮摩托探索沙漠。",
+      "glassBottomBoat": "透过船底观景窗欣赏红海海洋生物。",
+      "kitesurfLesson": "在教练指导下学习风筝冲浪基础。",
+      "cityTour": "探访赫尔格达码头、老城区和当地集市。",
+      "luxorDayTrip": "一日游参观卢克索神庙和历史遗迹。",
+      "cairoDayTrip": "一日游欣赏开罗最著名的地标。"
+    }
+  },
+  "accommodationPage": {
+    "eyebrow": "寻一间海边客房",
+    "title": "客房住宿",
+    "intro": "四种精心设计的空间，各有不同视角，尽览红海与远处沙漠。",
+    "roomCount": "{count} 种房型",
+    "detailEyebrow": "蓝色地平线的客房",
+    "detailsTitle": "客房详情",
+    "amenitiesTitle": "设施",
+    "back": "返回客房列表",
+    "otherRooms": "其他客房",
+    "previousImage": "上一张客房照片",
+    "nextImage": "下一张客房照片",
+    "imageAlt": "蓝色地平线酒店的{roomName}",
+    "selectImage": "查看{roomName}的第{number}张照片",
+    "amenities": {
+      "minibar": "迷你吧",
+      "flatScreenTv": "平板电视",
+      "freeToiletries": "免费洗浴用品",
+      "walkInShower": "步入式淋浴间",
+      "hairdryer": "吹风机",
+      "teaCoffeeMaker": "茶和咖啡机",
+      "towels": "毛巾",
+      "wardrobe": "衣柜",
+      "desk": "书桌",
+      "wakeUpService": "叫醒服务",
+      "telephone": "电话",
+      "safe": "客房保险箱",
+      "bedLinen": "床上用品",
+      "slippers": "拖鞋",
+      "bottledWater": "瓶装水",
+      "dailyHousekeeping": "每日客房清洁",
+      "mountainView": "山景",
+      "seaView": "红海景观",
+      "balcony": "私人阳台",
+      "wifi": "免费 Wi-Fi",
+      "airConditioning": "空调",
+      "privateBathroom": "独立卫浴",
+      "teaCoffee": "茶和咖啡设施",
+      "workspace": "办公空间",
+      "separateLivingArea": "独立起居区"
+    }
+  },
+  "facilitiesPage": {
+    "amenitiesHeading": "设施与服务",
+    "amenities": {
+      "parking": "免费停车",
+      "restaurant": "餐厅",
+      "roomService": "客房服务",
+      "bar": "酒吧",
+      "frontDesk": "24小时前台",
+      "terrace": "露台",
+      "nonSmokingRooms": "禁烟客房",
+      "airportShuttle": "机场接送",
+      "laundry": "洗衣服务",
+      "dryCleaning": "干洗",
+      "familyRooms": "家庭客房",
+      "ironingService": "熨烫服务",
+      "safeDepositBox": "保险箱",
+      "bbqFacilities": "烧烤设施",
+      "privateBeachArea": "私人海滩区",
+      "freeWifi": "免费无线网络",
+      "airConditioning": "空调",
+      "toursExcursions": "旅游与短途旅行",
+      "atm": "酒店内ATM",
+      "luggageStorage": "行李寄存"
+    },
+    "eyebrow": "轻松度假的配套",
+    "title": "酒店设施",
+    "intro": "贴心舒适与本地体验近在身边，让假期更加自在。",
+    "items": {
+      "privateBeach": {
+        "title": "私人海滩",
+        "description": "在红海岸边享受悠闲、明媚的时光。"
+      },
+      "airportShuttle": {
+        "title": "机场接送",
+        "description": "轻松往返赫尔格达机场。"
+      },
+      "tours": {
+        "title": "本地游览",
+        "description": "探索珊瑚礁、沙漠以及赫尔格达周边景点。"
+      }
+    }
+  },
+  "galleryPage": {
+    "eyebrow": "海岸风光一览",
+    "title": "照片集",
+    "intro": "欣赏蓝色地平线酒店与红海海岸的点滴景致。",
+    "openImage": "放大图片：{description}",
+    "close": "关闭图片",
+    "previous": "上一张图片",
+    "next": "下一张图片",
+    "images": {
+      "redSea": "红海海平线",
+      "cove": "宁静的红海海湾",
+      "coast": "赫尔格达海岸线",
+      "mountainRoom": "山景双人房",
+      "doubleSeaRoom": "海景双人房",
+      "singleSeaRoom": "海景单人房",
+      "suite": "海景套房",
+      "beach": "带遮阳伞的红海海滩",
+      "sea": "平静海面上的船只",
+      "breakfast": "酒店新鲜早餐",
+      "restaurant": "酒店餐厅",
+      "terrace": "面朝大海的酒店露台",
+      "exterior": "带泳池和阳台的酒店外观",
+      "reception": "酒店大堂与前台",
+      "sunset": "酒店上空的日落"
+    }
+  },
+  "reviewsPage": {
+    "eyebrow": "宾客故事",
+    "title": "宾客评价",
+    "intro": "精选入住宾客分享的旅程感受。",
+    "rating": "满分 5 星，获得 {rating} 星"
+  },
+  "locationPage": {
+    "eyebrow": "红海海岸地址",
+    "title": "位置",
+    "intro": "坐落于赫尔格达海岸，前往市区与海边都很方便。",
+    "addressLabel": "酒店地址",
+    "mapTitle": "埃及赫尔格达地图",
+    "nearbyTitle": "周边地点",
+    "distanceLabel": "大约距离",
+    "nearby": {
+      "airport": "赫尔格达国际机场",
+      "marina": "赫尔格达码头",
+      "aquarium": "赫尔格达海洋馆",
+      "beaches": "红海海滩"
+    }
+  },
+  "contactPage": {
+    "eyebrow": "我们随时为您解答",
+    "title": "联系我们",
+    "intro": "欢迎咨询住宿、房型，或任何抵达前想了解的信息。",
+    "detailsTitle": "联系方式",
+    "address": "地址",
+    "phone": "电话",
+    "email": "电子邮箱",
+    "checkIn": "入住时间：{time} 起",
+    "checkOut": "退房时间：{time} 前",
+    "formTitle": "给我们留言",
+    "name": "您的姓名",
+    "namePlaceholder": "请输入姓名",
+    "emailPlaceholder": "you@example.com",
+    "message": "留言内容",
+    "messagePlaceholder": "请告诉我们如何为您提供帮助",
+    "send": "发送留言"
+  },
+  "footer": {
+    "share": "分享",
+    "print": "打印",
+    "emailShare": "电子邮件",
+    "contactUs": "联系我们",
+    "hotelDescription": "埃及赫尔格达的酒店",
+    "openAllYear": "全年开放",
+    "followUs": "关注我们",
+    "reviews": "宾客评价",
+    "weatherTitle": "赫尔格达天气",
+    "high": "最高",
+    "low": "最低",
+    "disclaimer": "免责声明：这是作品集演示项目，并非真实酒店网站。",
+    "privacyBefore": "使用本网站即表示您同意我们的",
+    "privacyPolicy": "隐私政策",
+    "deleteData": "删除您的数据",
+    "weatherConditions": {
+      "clear": "晴朗",
+      "mostlyClear": "大致晴朗",
+      "partlyCloudy": "局部多云",
+      "overcast": "阴天",
+      "fog": "有雾",
+      "drizzle": "毛毛雨",
+      "rain": "雨",
+      "snow": "雪",
+      "showers": "阵雨",
+      "thunderstorm": "雷暴",
+      "unknown": "天气状况未知"
+    },
+    "tagline": "开启一段宁静的红海之旅。",
+    "locationHeading": "酒店地址",
+    "address": "埃及红海省赫尔格达",
+    "stayHeading": "入住信息",
+    "checkIn": "入住时间 · {time}",
+    "checkOut": "退房时间 · {time}",
+    "privacy": "隐私政策",
+    "ready": "准备好开启红海之旅了吗？",
+    "copyright": "© {year} Blue Horizon Hotel & Beach。保留所有权利。",
+    "backToTop": "返回顶部"
+  },
+  "site": {
+    "name": "Blue Horizon Hotel & Beach",
+    "homeHeading": "???? Blue Horizon Hotel & Beach"
+  },
+  "privacyPage": {
+    "heading": "????????",
+    "body": "????????????????????????????????????????????????????????????????????????????????????????????",
+    "deleteHeading": "????",
+    "deleteBody": "?????????????????????????? hello@bluehorizon.example?",
+    "metaDescription": "Blue Horizon Hotel & Beach ???????????"
+  }
+}

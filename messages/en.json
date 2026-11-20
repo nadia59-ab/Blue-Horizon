@@ -1,0 +1,404 @@
+{
+  "navigation": {
+    "home": "Home",
+    "location": "Location",
+    "accommodation": "Accommodation",
+    "facilities": "Facilities",
+    "gallery": "Photos",
+    "reviews": "Reviews",
+    "contact": "Contact",
+    "mainLabel": "Main navigation",
+    "language": "Choose language",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "languageNames": {
+      "en": "English",
+      "zh": "Chinese",
+      "ru": "Russian",
+      "de": "German"
+    }
+  },
+  "booking": {
+    "bookNow": "Book now"
+  },
+  "hero": {
+    "galleryLabel": "Red Sea views",
+    "eyebrow": "A little closer to the sea",
+    "tagline": "Where the Red Sea slows you down.",
+    "place": "Hurghada, Egypt",
+    "slideControls": "Choose a hero image",
+    "goToSlide": "Show image {number}",
+    "scroll": "Discover more",
+    "previousSlide": "Previous slide",
+    "nextSlide": "Next slide"
+  },
+  "why": {
+    "eyebrow": "The thoughtful details",
+    "title": "Why book with us",
+    "intro": "Everything you need for a sunlit, unhurried stay on the Red Sea.",
+    "items": {
+      "parking": {
+        "title": "Free parking",
+        "description": "Come and go with a little more ease."
+      },
+      "restaurant": {
+        "title": "Restaurant",
+        "description": "Fresh, relaxed dining from morning to evening."
+      },
+      "roomService": {
+        "title": "Room service",
+        "description": "A slower morning, delivered to your door."
+      },
+      "bar": {
+        "title": "Bar",
+        "description": "Cool drinks and easy evenings by the water."
+      },
+      "frontDesk": {
+        "title": "24h front desk",
+        "description": "A friendly face, whenever you need one."
+      },
+      "familyRooms": {
+        "title": "Family rooms",
+        "description": "Room to settle in and share the holiday."
+      }
+    }
+  },
+  "roomsSection": {
+    "title": "Accommodation in Hurghada, Egypt",
+    "subtitle": "COMFORTABLE & MODERN ROOMS",
+    "chooseType": "CHOOSE YOUR TYPE"
+  },
+  "rooms": {
+    "doubleMountainView": {
+      "name": "Double Mountain View",
+      "description": "A comfortable double room with a quiet view toward the Eastern Desert mountains."
+    },
+    "doubleSeaView": {
+      "name": "Double Sea View",
+      "description": "A bright double room with a private balcony overlooking the Red Sea."
+    },
+    "singleSeaView": {
+      "name": "Single Sea View",
+      "description": "A relaxed single room with a balcony and open views across the Red Sea."
+    },
+    "suiteSeaView": {
+      "name": "Suite Sea View",
+      "description": "A spacious suite with a separate sitting area and sweeping Red Sea views."
+    }
+  },
+  "roomDetails": {
+    "size": "{size} m²",
+    "guests": "Up to {count} guests",
+    "imageAlt": "{roomName} room, photo {number}",
+    "beds": {
+      "double": "1 double bed",
+      "single": "1 single bed",
+      "suite": "1 king bed and 1 sofa bed"
+    }
+  },
+  "common": {
+    "viewMore": "View more",
+    "viewLess": "View less",
+    "previousReview": "Previous reviews",
+    "nextReview": "Next reviews"
+  },
+  "reviews": {
+    "homeHeading": "Guests' impressions",
+    "eyebrow": "Notes from our guests",
+    "title": "A stay worth remembering",
+    "starRating": "Rated {rating} out of 5",
+    "items": {
+      "mariam": {
+        "title": "A lovely Red Sea escape",
+        "text": "The sea view was beautiful, and the team made our stay feel easy from the moment we arrived."
+      },
+      "oliver": {
+        "title": "Warm hospitality",
+        "text": "A calm and welcoming hotel with a great beach and comfortable rooms."
+      },
+      "salma": {
+        "title": "Wonderful location",
+        "text": "We loved being close to the water and watching the sunset from our balcony."
+      },
+      "daniel": {
+        "title": "A relaxing week",
+        "text": "The room was spotless, the staff were kind, and the beach was a highlight."
+      },
+      "layla": {
+        "title": "Perfect for a short break",
+        "text": "Everything felt relaxed and thoughtfully looked after. We would happily return."
+      },
+      "sofia": {
+        "title": "Beautiful sea views",
+        "text": "A comfortable stay with lovely views and friendly service throughout."
+      }
+    }
+  },
+  "cta": {
+    "homeHeading": "Make a reservation",
+    "eyebrow": "Your Red Sea days are waiting",
+    "title": "Make a reservation",
+    "text": "Find a little more space for sunshine, sea air, and doing nothing at all."
+  },
+  "activities": {
+    "thingsToDo": "Things to do in Hurghada",
+    "sectionTitle": "Hurghada Activities",
+    "location": "Hurghada, Red Sea",
+    "freeCancellation": "Free cancellation",
+    "from": "from",
+    "bookNow": "Book Now",
+    "sampleNote": "Sample activities for demo purposes",
+    "items": {
+      "divingTrip": {
+        "title": "Red Sea diving trip"
+      },
+      "snorkelingBoatTrip": {
+        "title": "Snorkeling boat trip"
+      },
+      "desertSafari": {
+        "title": "Desert safari"
+      },
+      "islandDayTrip": {
+        "title": "Island day trip"
+      },
+      "sunsetCruise": {
+        "title": "Sunset cruise"
+      },
+      "dolphinWatching": {
+        "title": "Dolphin watching"
+      },
+      "quadBiking": {
+        "title": "Quad biking"
+      },
+      "glassBottomBoat": {
+        "title": "Glass-bottom boat"
+      },
+      "kitesurfLesson": {
+        "title": "Kitesurf lesson"
+      },
+      "cityTour": {
+        "title": "Hurghada city tour"
+      },
+      "luxorDayTrip": {
+        "title": "Luxor day trip"
+      },
+      "cairoDayTrip": {
+        "title": "Cairo day trip"
+      }
+    },
+    "highlights": {
+      "divingTrip": "Explore colorful reefs with a local dive guide and beginner-friendly options.",
+      "snorkelingBoatTrip": "Spend a day swimming above coral gardens on a guided boat trip.",
+      "desertSafari": "Ride across desert trails and visit a traditional Bedouin camp.",
+      "islandDayTrip": "Take a boat to a nearby island for a relaxed beach day.",
+      "sunsetCruise": "Cruise along the coast as the sun sets over the Red Sea.",
+      "dolphinWatching": "Look for dolphins on a respectful guided boat outing.",
+      "quadBiking": "Explore the desert landscape on a guided quad ride.",
+      "glassBottomBoat": "See Red Sea marine life through the viewing windows of a boat.",
+      "kitesurfLesson": "Learn the basics of kitesurfing with an instructor.",
+      "cityTour": "Discover Hurghada’s marina, old town, and local markets.",
+      "luxorDayTrip": "Visit Luxor’s temples and historic sites on a full-day trip.",
+      "cairoDayTrip": "See Cairo’s most famous landmarks on a day trip."
+    }
+  },
+  "accommodationPage": {
+    "eyebrow": "Find your room by the sea",
+    "title": "Accommodation",
+    "intro": "Four considered spaces, each with its own view of the Red Sea and the desert beyond.",
+    "roomCount": "{count} room types",
+    "detailEyebrow": "Your room at Blue Horizon",
+    "detailsTitle": "Room details",
+    "amenitiesTitle": "Amenities",
+    "back": "Back to accommodation",
+    "otherRooms": "Other rooms",
+    "previousImage": "Previous room image",
+    "nextImage": "Next room image",
+    "imageAlt": "{roomName} at Blue Horizon Hotel & Beach",
+    "selectImage": "Show {roomName} photo {number}",
+    "amenities": {
+      "minibar": "Minibar",
+      "flatScreenTv": "Flat-screen TV",
+      "freeToiletries": "Free toiletries",
+      "walkInShower": "Walk-in shower",
+      "hairdryer": "Hairdryer",
+      "teaCoffeeMaker": "Tea and coffee maker",
+      "towels": "Towels",
+      "wardrobe": "Wardrobe",
+      "desk": "Desk",
+      "wakeUpService": "Wake-up service",
+      "telephone": "Telephone",
+      "safe": "In-room safe",
+      "bedLinen": "Bed linen",
+      "slippers": "Slippers",
+      "bottledWater": "Bottled water",
+      "dailyHousekeeping": "Daily housekeeping",
+      "mountainView": "Mountain view",
+      "seaView": "Red Sea view",
+      "balcony": "Private balcony",
+      "wifi": "Complimentary Wi-Fi",
+      "airConditioning": "Air conditioning",
+      "privateBathroom": "Private bathroom",
+      "teaCoffee": "Tea and coffee facilities",
+      "workspace": "Work space",
+      "separateLivingArea": "Separate living area"
+    }
+  },
+  "facilitiesPage": {
+    "amenitiesHeading": "Amenities & services",
+    "amenities": {
+      "parking": "Free parking",
+      "restaurant": "Restaurant",
+      "roomService": "Room service",
+      "bar": "Bar",
+      "frontDesk": "24-hour front desk",
+      "terrace": "Terrace",
+      "nonSmokingRooms": "Non-smoking rooms",
+      "airportShuttle": "Airport shuttle",
+      "laundry": "Laundry",
+      "dryCleaning": "Dry cleaning",
+      "familyRooms": "Family rooms",
+      "ironingService": "Ironing service",
+      "safeDepositBox": "Safe deposit box",
+      "bbqFacilities": "BBQ facilities",
+      "privateBeachArea": "Private beach area",
+      "freeWifi": "Free Wi-Fi",
+      "airConditioning": "Air conditioning",
+      "toursExcursions": "Tours and excursions",
+      "atm": "ATM on site",
+      "luggageStorage": "Luggage storage"
+    },
+    "eyebrow": "Made for easy days",
+    "title": "Facilities",
+    "intro": "Considered comforts and local experiences, with everything close at hand.",
+    "items": {
+      "privateBeach": {
+        "title": "Private beach",
+        "description": "A stretch of Red Sea shore for slow, sunlit hours."
+      },
+      "airportShuttle": {
+        "title": "Airport shuttle",
+        "description": "A simple transfer to and from Hurghada Airport."
+      },
+      "tours": {
+        "title": "Local tours",
+        "description": "Discover the reef, desert, and highlights around Hurghada."
+      }
+    }
+  },
+  "galleryPage": {
+    "eyebrow": "A glimpse of the coast",
+    "title": "Photo gallery",
+    "intro": "A few scenes from Blue Horizon and the Red Sea coast.",
+    "openImage": "Enlarge photo: {description}",
+    "close": "Close photo",
+    "previous": "Previous photo",
+    "next": "Next photo",
+    "images": {
+      "redSea": "Red Sea horizon",
+      "cove": "A quiet Red Sea cove",
+      "coast": "The Hurghada coastline",
+      "mountainRoom": "Double Mountain View room",
+      "doubleSeaRoom": "Double Sea View room",
+      "singleSeaRoom": "Single Sea View room",
+      "suite": "Suite Sea View room",
+      "beach": "Red Sea beach with umbrellas",
+      "sea": "Boats on a calm sea",
+      "breakfast": "Fresh hotel breakfast",
+      "restaurant": "Hotel restaurant dining room",
+      "terrace": "Hotel terrace overlooking the sea",
+      "exterior": "Hotel exterior with pool and balconies",
+      "reception": "Hotel reception lobby",
+      "sunset": "Sunset over the hotel"
+    }
+  },
+  "reviewsPage": {
+    "eyebrow": "Guest stories",
+    "title": "Reviews",
+    "intro": "A selection of notes from guests who have stayed with us.",
+    "rating": "{rating} out of 5 stars"
+  },
+  "locationPage": {
+    "eyebrow": "A Red Sea address",
+    "title": "Location",
+    "intro": "Set along the Hurghada coast, with the city and shoreline within easy reach.",
+    "addressLabel": "Our address",
+    "mapTitle": "Map showing Hurghada, Egypt",
+    "nearbyTitle": "Nearby",
+    "distanceLabel": "Approximate distance",
+    "nearby": {
+      "airport": "Hurghada International Airport",
+      "marina": "Hurghada Marina",
+      "aquarium": "Hurghada Grand Aquarium",
+      "beaches": "Red Sea beaches"
+    }
+  },
+  "contactPage": {
+    "eyebrow": "We’re here to help",
+    "title": "Contact",
+    "intro": "Ask us about a stay, a room, or anything you’d like to know before you arrive.",
+    "detailsTitle": "Get in touch",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "checkIn": "Check-in from {time}",
+    "checkOut": "Check-out by {time}",
+    "formTitle": "Send us a message",
+    "name": "Your name",
+    "namePlaceholder": "Enter your name",
+    "emailPlaceholder": "you@example.com",
+    "message": "Message",
+    "messagePlaceholder": "How can we help?",
+    "send": "Send message"
+  },
+  "footer": {
+    "share": "SHARE",
+    "print": "PRINT",
+    "emailShare": "Email",
+    "contactUs": "Contact us",
+    "hotelDescription": "Hotel in Hurghada, Egypt",
+    "openAllYear": "Open all year",
+    "followUs": "Follow us",
+    "reviews": "Reviews",
+    "weatherTitle": "HURGHADA WEATHER",
+    "high": "HIGH",
+    "low": "LOW",
+    "disclaimer": "Disclaimer: This is a portfolio demo project, not a real hotel website.",
+    "privacyBefore": "By using this website, you agree to our",
+    "privacyPolicy": "privacy policy",
+    "deleteData": "Delete your data",
+    "weatherConditions": {
+      "clear": "Clear",
+      "mostlyClear": "Mostly clear",
+      "partlyCloudy": "Partly cloudy",
+      "overcast": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Drizzle",
+      "rain": "Rain",
+      "snow": "Snow",
+      "showers": "Showers",
+      "thunderstorm": "Thunderstorm",
+      "unknown": "Conditions unavailable"
+    },
+    "tagline": "A quieter kind of Red Sea escape.",
+    "locationHeading": "Find us",
+    "address": "Hurghada, Red Sea Governorate, Egypt",
+    "stayHeading": "Plan your stay",
+    "checkIn": "Check-in · {time}",
+    "checkOut": "Check-out · {time}",
+    "privacy": "Privacy policy",
+    "ready": "Ready for the Red Sea?",
+    "copyright": "© {year} Blue Horizon Hotel & Beach. All rights reserved.",
+    "backToTop": "Back to top"
+  },
+  "site": {
+    "name": "Blue Horizon Hotel & Beach",
+    "homeHeading": "Blue Horizon Hotel & Beach in Hurghada"
+  },
+  "privacyPage": {
+    "heading": "Demo privacy notice",
+    "body": "This portfolio demo is not a real hotel website and does not store messages or visitor accounts. The contact form opens your email application and does not submit information to this site. Some pages may load third-party services such as maps or weather data, which are governed by their providers? privacy policies.",
+    "deleteHeading": "Data requests",
+    "deleteBody": "This demo does not retain visitor data. For questions about this portfolio project, contact hello@bluehorizon.example.",
+    "metaDescription": "Privacy information for the Blue Horizon Hotel & Beach portfolio demo."
+  }
+}

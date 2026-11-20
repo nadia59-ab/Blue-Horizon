@@ -1,0 +1,404 @@
+{
+  "navigation": {
+    "home": "Startseite",
+    "location": "Lage",
+    "accommodation": "Zimmer",
+    "facilities": "Ausstattung",
+    "gallery": "Fotos",
+    "reviews": "Bewertungen",
+    "contact": "Kontakt",
+    "mainLabel": "Hauptnavigation",
+    "language": "Sprache wählen",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "languageNames": {
+      "en": "Englisch",
+      "zh": "Chinesisch",
+      "ru": "Russisch",
+      "de": "Deutsch"
+    }
+  },
+  "booking": {
+    "bookNow": "Jetzt buchen"
+  },
+  "hero": {
+    "galleryLabel": "Ausblicke auf das Rote Meer",
+    "eyebrow": "Dem Meer ein Stück näher",
+    "tagline": "Wo das Rote Meer die Zeit verlangsamt.",
+    "place": "Hurghada, Ägypten",
+    "slideControls": "Titelbild auswählen",
+    "goToSlide": "Bild {number} anzeigen",
+    "scroll": "Mehr entdecken",
+    "previousSlide": "Vorherige Folie",
+    "nextSlide": "N?chste Folie"
+  },
+  "why": {
+    "eyebrow": "Die liebevollen Details",
+    "title": "Warum Sie bei uns buchen",
+    "intro": "Alles für sonnige, unbeschwerte Tage am Roten Meer.",
+    "items": {
+      "parking": {
+        "title": "Kostenlose Parkplätze",
+        "description": "Kommen und gehen Sie ganz unkompliziert."
+      },
+      "restaurant": {
+        "title": "Restaurant",
+        "description": "Frische Küche in entspannter Atmosphäre, den ganzen Tag."
+      },
+      "roomService": {
+        "title": "Zimmerservice",
+        "description": "Ein langsamer Morgen mit Frühstück vor der Tür."
+      },
+      "bar": {
+        "title": "Bar",
+        "description": "Erfrischende Getränke und entspannte Abende am Wasser."
+      },
+      "frontDesk": {
+        "title": "Rezeption rund um die Uhr",
+        "description": "Ein freundliches Gesicht, wann immer Sie es brauchen."
+      },
+      "familyRooms": {
+        "title": "Familienzimmer",
+        "description": "Genug Platz, um gemeinsam anzukommen und abzuschalten."
+      }
+    }
+  },
+  "roomsSection": {
+    "title": "Unterkünfte in Hurghada, Ägypten",
+    "subtitle": "KOMFORTABLE & MODERNE ZIMMER",
+    "chooseType": "ZIMMER AUSWÄHLEN"
+  },
+  "rooms": {
+    "doubleMountainView": {
+      "name": "Doppelzimmer mit Bergblick",
+      "description": "Ein komfortables Doppelzimmer mit ruhigem Blick auf die Berge der Östlichen Wüste."
+    },
+    "doubleSeaView": {
+      "name": "Doppelzimmer mit Meerblick",
+      "description": "Ein helles Doppelzimmer mit privatem Balkon und Blick auf das Rote Meer."
+    },
+    "singleSeaView": {
+      "name": "Einzelzimmer mit Meerblick",
+      "description": "Ein entspanntes Einzelzimmer mit Balkon und weitem Blick auf das Rote Meer."
+    },
+    "suiteSeaView": {
+      "name": "Suite mit Meerblick",
+      "description": "Eine großzügige Suite mit separatem Wohnbereich und weitem Blick auf das Rote Meer."
+    }
+  },
+  "roomDetails": {
+    "size": "{size} m²",
+    "guests": "Für bis zu {count} Gäste",
+    "imageAlt": "{roomName}, Zimmerfoto {number}",
+    "beds": {
+      "double": "1 Doppelbett",
+      "single": "1 Einzelbett",
+      "suite": "1 Kingsize-Bett und 1 Schlafsofa"
+    }
+  },
+  "common": {
+    "viewMore": "Mehr erfahren",
+    "viewLess": "Weniger anzeigen",
+    "previousReview": "Vorherige Bewertungen",
+    "nextReview": "Weitere Bewertungen"
+  },
+  "reviews": {
+    "homeHeading": "Eindrücke unserer Gäste",
+    "eyebrow": "Eindrücke unserer Gäste",
+    "title": "Ein Aufenthalt, der in Erinnerung bleibt",
+    "starRating": "Bewertung: {rating} von 5",
+    "items": {
+      "mariam": {
+        "title": "Eine wunderbare Auszeit am Roten Meer",
+        "text": "Der Meerblick war wunderschön und das Team machte unseren Aufenthalt vom ersten Moment an angenehm."
+      },
+      "oliver": {
+        "title": "Herzliche Gastfreundschaft",
+        "text": "Ein ruhiges, einladendes Hotel mit einem tollen Strand und komfortablen Zimmern."
+      },
+      "salma": {
+        "title": "Wunderbare Lage",
+        "text": "Wir waren gern nah am Wasser und haben den Sonnenuntergang vom Balkon aus genossen."
+      },
+      "daniel": {
+        "title": "Eine erholsame Woche",
+        "text": "Das Zimmer war makellos, das Personal freundlich und der Strand ein echtes Highlight."
+      },
+      "layla": {
+        "title": "Perfekt für eine kleine Auszeit",
+        "text": "Alles war entspannt und aufmerksam organisiert. Wir kommen gern wieder."
+      },
+      "sofia": {
+        "title": "Wunderschöne Ausblicke aufs Meer",
+        "text": "Ein angenehmer Aufenthalt mit schönen Ausblicken und durchgehend freundlichem Service."
+      }
+    }
+  },
+  "cta": {
+    "homeHeading": "Reservierung vornehmen",
+    "eyebrow": "Ihre Tage am Roten Meer warten schon",
+    "title": "Jetzt Aufenthalt planen",
+    "text": "Mehr Raum für Sonne, Meeresluft und einfach einmal gar nichts tun."
+  },
+  "activities": {
+    "thingsToDo": "Aktivitäten in Hurghada",
+    "sectionTitle": "Erlebnisse in Hurghada",
+    "location": "Hurghada, Rotes Meer",
+    "freeCancellation": "Kostenlose Stornierung",
+    "from": "ab",
+    "bookNow": "Jetzt buchen",
+    "sampleNote": "Beispielaktivitäten für das Demo-Projekt",
+    "items": {
+      "divingTrip": {
+        "title": "Tauchausflug im Roten Meer"
+      },
+      "snorkelingBoatTrip": {
+        "title": "Schnorchel-Bootstour"
+      },
+      "desertSafari": {
+        "title": "Wüstensafari"
+      },
+      "islandDayTrip": {
+        "title": "Tagesausflug zur Insel"
+      },
+      "sunsetCruise": {
+        "title": "Sonnenuntergangsfahrt"
+      },
+      "dolphinWatching": {
+        "title": "Delfinbeobachtung"
+      },
+      "quadBiking": {
+        "title": "Quad-Tour"
+      },
+      "glassBottomBoat": {
+        "title": "Glasbodenboot"
+      },
+      "kitesurfLesson": {
+        "title": "Kitesurfkurs"
+      },
+      "cityTour": {
+        "title": "Stadttour durch Hurghada"
+      },
+      "luxorDayTrip": {
+        "title": "Tagesausflug nach Luxor"
+      },
+      "cairoDayTrip": {
+        "title": "Tagesausflug nach Kairo"
+      }
+    },
+    "highlights": {
+      "divingTrip": "Entdecken Sie bunte Riffe mit einem lokalen Tauchguide; auch für Einsteiger geeignet.",
+      "snorkelingBoatTrip": "Verbringen Sie einen Tag auf dem Meer und schwimmen Sie über Korallengärten.",
+      "desertSafari": "Fahren Sie über Wüstenpfade und besuchen Sie ein traditionelles Beduinencamp.",
+      "islandDayTrip": "Fahren Sie zu einer nahegelegenen Insel und genießen Sie einen entspannten Strandtag.",
+      "sunsetCruise": "Fahren Sie zum Sonnenuntergang entlang der Küste des Roten Meeres.",
+      "dolphinWatching": "Halten Sie bei einer geführten Bootstour Ausschau nach Delfinen.",
+      "quadBiking": "Erkunden Sie die Wüstenlandschaft bei einer geführten Quad-Tour.",
+      "glassBottomBoat": "Beobachten Sie die Meereswelt des Roten Meeres durch die Fenster eines Boots.",
+      "kitesurfLesson": "Lernen Sie mit einem Coach die Grundlagen des Kitesurfens.",
+      "cityTour": "Entdecken Sie Marina, Altstadt und lokale Märkte von Hurghada.",
+      "luxorDayTrip": "Besuchen Sie die Tempel und historischen Stätten von Luxor an einem Tag.",
+      "cairoDayTrip": "Sehen Sie Kairos bekannteste Sehenswürdigkeiten bei einem Tagesausflug."
+    }
+  },
+  "accommodationPage": {
+    "eyebrow": "Finden Sie Ihr Zimmer am Meer",
+    "title": "Unterkünfte",
+    "intro": "Vier durchdachte Räume, jeder mit eigenem Blick auf das Rote Meer und die Wüste dahinter.",
+    "roomCount": "{count} Zimmerkategorien",
+    "detailEyebrow": "Ihr Zimmer im Blue Horizon",
+    "detailsTitle": "Zimmerdetails",
+    "amenitiesTitle": "Ausstattung",
+    "back": "Zurück zu den Zimmern",
+    "otherRooms": "Weitere Zimmer",
+    "previousImage": "Vorheriges Zimmerfoto",
+    "nextImage": "Nächstes Zimmerfoto",
+    "imageAlt": "{roomName} im Blue Horizon Hotel & Beach",
+    "selectImage": "Zimmerfoto {number} von {roomName} anzeigen",
+    "amenities": {
+      "minibar": "Minibar",
+      "flatScreenTv": "Flachbildfernseher",
+      "freeToiletries": "Kostenlose Pflegeprodukte",
+      "walkInShower": "Begehbare Dusche",
+      "hairdryer": "Haartrockner",
+      "teaCoffeeMaker": "Tee- und Kaffeemaschine",
+      "towels": "Handtücher",
+      "wardrobe": "Kleiderschrank",
+      "desk": "Schreibtisch",
+      "wakeUpService": "Weckservice",
+      "telephone": "Telefon",
+      "safe": "Zimmersafe",
+      "bedLinen": "Bettwäsche",
+      "slippers": "Hausschuhe",
+      "bottledWater": "Mineralwasser",
+      "dailyHousekeeping": "Tägliche Zimmerreinigung",
+      "mountainView": "Bergblick",
+      "seaView": "Blick auf das Rote Meer",
+      "balcony": "Privater Balkon",
+      "wifi": "Kostenloses WLAN",
+      "airConditioning": "Klimaanlage",
+      "privateBathroom": "Eigenes Badezimmer",
+      "teaCoffee": "Tee- und Kaffeezubehör",
+      "workspace": "Arbeitsbereich",
+      "separateLivingArea": "Separater Wohnbereich"
+    }
+  },
+  "facilitiesPage": {
+    "amenitiesHeading": "Annehmlichkeiten & Services",
+    "amenities": {
+      "parking": "Kostenlose Parkplätze",
+      "restaurant": "Restaurant",
+      "roomService": "Zimmerservice",
+      "bar": "Bar",
+      "frontDesk": "24-Stunden-Rezeption",
+      "terrace": "Terrasse",
+      "nonSmokingRooms": "Nichtraucherzimmer",
+      "airportShuttle": "Flughafentransfer",
+      "laundry": "Wäscheservice",
+      "dryCleaning": "Chemische Reinigung",
+      "familyRooms": "Familienzimmer",
+      "ironingService": "Bügelservice",
+      "safeDepositBox": "Safe",
+      "bbqFacilities": "Grillmöglichkeiten",
+      "privateBeachArea": "Privater Strandbereich",
+      "freeWifi": "Kostenloses WLAN",
+      "airConditioning": "Klimaanlage",
+      "toursExcursions": "Touren und Ausflüge",
+      "atm": "Geldautomat vor Ort",
+      "luggageStorage": "Gepäckaufbewahrung"
+    },
+    "eyebrow": "Alles für entspannte Tage",
+    "title": "Ausstattung",
+    "intro": "Durchdachter Komfort und Erlebnisse vor Ort sind immer ganz nah.",
+    "items": {
+      "privateBeach": {
+        "title": "Privatstrand",
+        "description": "Ein ruhiger Abschnitt am Roten Meer für sonnige Stunden."
+      },
+      "airportShuttle": {
+        "title": "Flughafentransfer",
+        "description": "Bequem zum Flughafen Hurghada und zurück."
+      },
+      "tours": {
+        "title": "Ausflüge vor Ort",
+        "description": "Entdecken Sie Riffe, Wüste und die Umgebung von Hurghada."
+      }
+    }
+  },
+  "galleryPage": {
+    "eyebrow": "Ein Blick auf die Küste",
+    "title": "Fotogalerie",
+    "intro": "Einige Eindrücke vom Blue Horizon und der Küste des Roten Meeres.",
+    "openImage": "Foto vergrößern: {description}",
+    "close": "Foto schließen",
+    "previous": "Vorheriges Foto",
+    "next": "Nächstes Foto",
+    "images": {
+      "redSea": "Horizont am Roten Meer",
+      "cove": "Ruhige Bucht am Roten Meer",
+      "coast": "Küste von Hurghada",
+      "mountainRoom": "Doppelzimmer mit Bergblick",
+      "doubleSeaRoom": "Doppelzimmer mit Meerblick",
+      "singleSeaRoom": "Einzelzimmer mit Meerblick",
+      "suite": "Suite mit Meerblick",
+      "beach": "Strand am Roten Meer mit Sonnenschirmen",
+      "sea": "Boote auf ruhiger See",
+      "breakfast": "Frisches Hotelfrühstück",
+      "restaurant": "Restaurant im Hotel",
+      "terrace": "Hotelterrasse mit Meerblick",
+      "exterior": "Hotelgebäude mit Pool und Balkonen",
+      "reception": "Hotellobby und Rezeption",
+      "sunset": "Sonnenuntergang über dem Hotel"
+    }
+  },
+  "reviewsPage": {
+    "eyebrow": "Gästegeschichten",
+    "title": "Bewertungen",
+    "intro": "Ausgewählte Eindrücke von Gästen, die bei uns übernachtet haben.",
+    "rating": "Bewertung: {rating} von 5"
+  },
+  "locationPage": {
+    "eyebrow": "Eine Adresse am Roten Meer",
+    "title": "Lage",
+    "intro": "An der Küste von Hurghada gelegen, mit Stadt und Strand in bequemer Reichweite.",
+    "addressLabel": "Unsere Adresse",
+    "mapTitle": "Karte von Hurghada, Ägypten",
+    "nearbyTitle": "In der Nähe",
+    "distanceLabel": "Ungefähre Entfernung",
+    "nearby": {
+      "airport": "Internationaler Flughafen Hurghada",
+      "marina": "Marina Hurghada",
+      "aquarium": "Hurghada Grand Aquarium",
+      "beaches": "Strände am Roten Meer"
+    }
+  },
+  "contactPage": {
+    "eyebrow": "Wir helfen Ihnen gerne",
+    "title": "Kontakt",
+    "intro": "Fragen Sie uns zu Ihrem Aufenthalt, einem Zimmer oder allem, was Sie vor Ihrer Anreise wissen möchten.",
+    "detailsTitle": "Sprechen Sie uns an",
+    "address": "Adresse",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "checkIn": "Check-in ab {time}",
+    "checkOut": "Check-out bis {time}",
+    "formTitle": "Nachricht senden",
+    "name": "Ihr Name",
+    "namePlaceholder": "Namen eingeben",
+    "emailPlaceholder": "you@example.com",
+    "message": "Nachricht",
+    "messagePlaceholder": "Wie können wir Ihnen helfen?",
+    "send": "Nachricht senden"
+  },
+  "footer": {
+    "share": "TEILEN",
+    "print": "DRUCKEN",
+    "emailShare": "E-Mail",
+    "contactUs": "Kontakt",
+    "hotelDescription": "Hotel in Hurghada, Ägypten",
+    "openAllYear": "Ganzjährig geöffnet",
+    "followUs": "Folgen Sie uns",
+    "reviews": "Bewertungen",
+    "weatherTitle": "WETTER IN HURGHADA",
+    "high": "HOCH",
+    "low": "TIEF",
+    "disclaimer": "Hinweis: Dies ist ein Portfolio-Demoprojekt und keine echte Hotelwebsite.",
+    "privacyBefore": "Mit der Nutzung dieser Website stimmen Sie unserer",
+    "privacyPolicy": "Datenschutzerklärung",
+    "deleteData": "Ihre Daten löschen",
+    "weatherConditions": {
+      "clear": "Klar",
+      "mostlyClear": "Überwiegend klar",
+      "partlyCloudy": "Teilweise bewölkt",
+      "overcast": "Bedeckt",
+      "fog": "Nebel",
+      "drizzle": "Nieselregen",
+      "rain": "Regen",
+      "snow": "Schnee",
+      "showers": "Schauer",
+      "thunderstorm": "Gewitter",
+      "unknown": "Wetterdaten nicht verfügbar"
+    },
+    "tagline": "Eine entspannte Auszeit am Roten Meer.",
+    "locationHeading": "So finden Sie uns",
+    "address": "Hurghada, Gouvernement Rotes Meer, Ägypten",
+    "stayHeading": "Gut zu wissen",
+    "checkIn": "Anreise ? {time}",
+    "checkOut": "Abreise ? {time}",
+    "privacy": "Datenschutzerklärung",
+    "ready": "Bereit für das Rote Meer?",
+    "copyright": "© {year} Blue Horizon Hotel & Beach. Alle Rechte vorbehalten.",
+    "backToTop": "Nach oben"
+  },
+  "site": {
+    "name": "Blue Horizon Hotel & Beach",
+    "homeHeading": "Blue Horizon Hotel & Beach in Hurghada"
+  },
+  "privacyPage": {
+    "heading": "Datenschutzhinweis zum Demoprojekt",
+    "body": "Dieses Portfolio-Demo ist keine echte Hotelwebsite und speichert weder Besucherkonten noch Nachrichten. Das Kontaktformular ?ffnet Ihr E-Mail-Programm und ?bermittelt keine Angaben an diese Website. Einige Seiten k?nnen Dienste Dritter wie Karten oder Wetterdaten laden; daf?r gelten die Datenschutzbestimmungen der jeweiligen Anbieter.",
+    "deleteHeading": "Datenanfragen",
+    "deleteBody": "Dieses Demo speichert keine Besucherdaten. Bei Fragen zu diesem Portfolio-Projekt schreiben Sie an hello@bluehorizon.example.",
+    "metaDescription": "Datenschutzhinweise zum Portfolio-Demo von Blue Horizon Hotel & Beach."
+  }
+}

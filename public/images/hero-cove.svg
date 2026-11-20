@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1000" fill="none">
+  <defs>
+    <linearGradient id="sea" x2="0" y2="1"><stop stop-color="#82C5C5"/><stop offset=".6" stop-color="#3994A0"/><stop offset="1" stop-color="#1D6277"/></linearGradient>
+    <linearGradient id="stone" x2=".8" y2="1"><stop stop-color="#E0C69D"/><stop offset="1" stop-color="#8D8872"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#F5E6C2" stop-opacity=".8"/><stop offset="1" stop-color="#F5E6C2" stop-opacity="0"/></radialGradient>
+  </defs>
+  <path fill="url(#sea)" d="M0 0h1800v1000H0z"/><ellipse cx="1240" cy="405" rx="560" ry="340" fill="url(#glow)"/>
+  <path fill="url(#stone)" d="M0 0h510c-53 98-82 188-50 270 34 87 147 120 151 221 5 119-124 177-109 279 11 82 102 133 130 230H0z"/>
+  <path fill="#B5A27F" d="M0 120c180 38 290 18 413-51-68 105-69 158-23 220 31 41 109 69 122 135-89-42-212-42-310 9C116 472 70 548 0 585z" opacity=".65"/>
+  <path fill="#D6C19A" d="M1800 0h-220c-36 107-26 176 28 236 58 65 147 75 153 155 5 69-63 114-78 189-18 93 41 174 117 227z"/>
+  <path stroke="#C0E0D5" stroke-width="7" opacity=".6" d="M540 157c210-40 396-13 593 23m-520 135c218-44 433-17 622 17M530 473c180-29 328-23 477 4M530 642c171-24 290-16 420 7m-320 150c160-15 245-7 354 8"/>
+  <path fill="#F0D7AD" d="M0 835c135 24 204 3 300-43 94-45 179-76 273-17 90 56 115 156 159 225H0z"/>
+  <path fill="#F8E9C7" d="M1800 810c-125-14-196 28-279 77-82 48-143 77-224 40-71-32-105-106-160-160 177-64 396-66 663-27z" opacity=".8"/>
+  <circle cx="1370" cy="164" r="62" fill="#F6DEB2" opacity=".75"/>
+</svg>
